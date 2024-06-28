@@ -259,7 +259,7 @@ func providerValidateConfig(config *Config) (*Config, error) {
 	if config.Bootstrap {
 		// If bootstrap tokenkey accesskey nor secretkey can be provided
 		if config.TokenKey != providerDefaultEmptyString {
-			return &Config{}, fmt.Errorf("[ERROR] Bootsrap mode activated. Token_key or access_key and secret_key can not be provided")
+			return &Config{}, fmt.Errorf("[ERROR] Bootstrap mode activated. Token_key or access_key and secret_key can not be provided")
 		}
 	} else {
 		// Else token or access key and secret key should be provided
