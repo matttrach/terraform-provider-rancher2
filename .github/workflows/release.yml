@@ -114,7 +114,7 @@ jobs:
         run: |
           # this jitter aligns the tests so that they don't all start at the same time
           JOB_INDEX=${{ strategy.job-index }}
-          DELAY=$(( JOB_INDEX * 45 ))
+          DELAY=$(( JOB_INDEX * 20 ))
           sleep $DELAY
       - name: Check for Lock
         id: check-lock
