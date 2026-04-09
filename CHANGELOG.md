@@ -1,5 +1,20 @@
 # Changelog
 
+## [13.2.0](https://github.com/matttrach/terraform-provider-rancher2/compare/v13.3.0...v13.2.0) (2026-04-09)
+
+
+### Features
+
+* implement support to nutanix machine config ([#2093](https://github.com/matttrach/terraform-provider-rancher2/issues/2093)) ([3871846](https://github.com/matttrach/terraform-provider-rancher2/commit/387184601a20a61e06136b1843a0c12f683d1b51))
+
+
+### Bug Fixes
+
+* import of ClusterProxyConfigs ([#1990](https://github.com/matttrach/terraform-provider-rancher2/issues/1990)) ([a840d29](https://github.com/matttrach/terraform-provider-rancher2/commit/a840d29bc54671844cff237ba4eff53b226e2e07))
+* release as v13.2.0 ([7b8873c](https://github.com/matttrach/terraform-provider-rancher2/commit/7b8873cc189c6019ba7c5df5e6135f172f6b7772))
+* remove GKE enablement logic ([#2061](https://github.com/matttrach/terraform-provider-rancher2/issues/2061)) ([c94998a](https://github.com/matttrach/terraform-provider-rancher2/commit/c94998a8188ae3839e8f8e6c397df6b286ebcb1d))
+* update release manifest ([#2011](https://github.com/matttrach/terraform-provider-rancher2/issues/2011)) ([2c4ba5b](https://github.com/matttrach/terraform-provider-rancher2/commit/2c4ba5b84f195a624ee381b187e879d5e0698276))
+
 ## [13.1.4](https://github.com/rancher/terraform-provider-rancher2/compare/v13.1.3...v13.1.4) (2025-12-19)
 
 
