@@ -1,5 +1,19 @@
 # Changelog
 
+## [14.1.1](https://github.com/matttrach/terraform-provider-rancher2/compare/v14.1.0...v14.1.1) (2026-05-07)
+
+
+### Features
+
+* add refresh_interval support to catalog_v2 ([#2204](https://github.com/matttrach/terraform-provider-rancher2/issues/2204)) ([77fb715](https://github.com/matttrach/terraform-provider-rancher2/commit/77fb7154d42ffed748f801cd3d922be7036ffb1e))
+
+
+### Bug Fixes
+
+* clean up nix install script ([#2230](https://github.com/matttrach/terraform-provider-rancher2/issues/2230)) ([#2236](https://github.com/matttrach/terraform-provider-rancher2/issues/2236)) ([34b717e](https://github.com/matttrach/terraform-provider-rancher2/commit/34b717efed041206cad9e9344f7b0aa8b223b2ad))
+* resolve CI dependencies ([#2208](https://github.com/matttrach/terraform-provider-rancher2/issues/2208)) ([#2214](https://github.com/matttrach/terraform-provider-rancher2/issues/2214)) ([c4febbd](https://github.com/matttrach/terraform-provider-rancher2/commit/c4febbd7628b17f634b6368c38bce3d91c05991a))
+* set release version ([#2239](https://github.com/matttrach/terraform-provider-rancher2/issues/2239)) ([05a13f3](https://github.com/matttrach/terraform-provider-rancher2/commit/05a13f3c953235186570d1055e77fb743cbd5105))
+
 ## [14.1.0](https://github.com/rancher/terraform-provider-rancher2/compare/v14.0.0...v14.1.0) (2026-04-09)
 
 
