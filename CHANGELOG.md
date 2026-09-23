@@ -12,6 +12,14 @@ ENHANCEMENTS:
 BUGFIXES:
 
 
+## [15.1.2](https://github.com/matttrach/terraform-provider-rancher2/compare/v15.1.2...v15.1.2) (2026-09-23)
+
+
+### Features
+
+* add release channel support ([#2493](https://github.com/matttrach/terraform-provider-rancher2/issues/2493)) ([#2504](https://github.com/matttrach/terraform-provider-rancher2/issues/2504)) ([b001311](https://github.com/matttrach/terraform-provider-rancher2/commit/b001311441330f876da4b0661b308aa9b0a8581e))
+* expand authenticated registry support ([#2497](https://github.com/matttrach/terraform-provider-rancher2/issues/2497)) ([04d54ae](https://github.com/matttrach/terraform-provider-rancher2/commit/04d54ae382a23954ad20a671ee2d47f03ea68807))
+
 ## [15.1.2](https://github.com/rancher/terraform-provider-rancher2/compare/v15.1.2...v15.1.2) (2026-09-10)
 
 
